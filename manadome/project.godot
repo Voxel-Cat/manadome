@@ -12,17 +12,17 @@ config_version=5
 
 config/name="manadome"
 config/features=PackedStringArray("4.4", "Forward Plus")
-config/icon="res://assets/ui Sprites/icon.svg"
+config/icon="res://Assets/UISprites/icon.svg"
 
 [file_customization]
 
 folder_colors={
-"res://assets/": "red",
-"res://assets/3D Models/": "teal",
-"res://assets/Materials/": "yellow",
-"res://assets/Objects/": "orange",
-"res://scenes/": "pink",
-"res://scenes/levels/": "purple",
-"res://scenes/menu scenes/": "gray",
-"res://scripts/": "blue"
+"res://Assets/": "red",
+"res://Assets/Materials/": "yellow",
+"res://Assets/Models/": "teal",
+"res://Assets/Objects/": "orange",
+"res://Scenes/": "pink",
+"res://Scenes/Levels/": "purple",
+"res://Scenes/MenuScenes/": "gray",
+"res://Scripts/": "blue"
 }
