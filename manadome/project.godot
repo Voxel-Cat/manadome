@@ -1,0 +1,28 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="manadome"
+config/features=PackedStringArray("4.4", "Forward Plus")
+config/icon="res://assets/icon.svg"
+
+[file_customization]
+
+folder_colors={
+"res://assets/": "red",
+"res://assets/3D Models/": "teal",
+"res://assets/Materials/": "yellow",
+"res://assets/Objects/": "orange",
+"res://scenes/": "pink",
+"res://scenes/levels/": "purple",
+"res://scenes/menu scenes/": "gray",
+"res://scripts/": "blue"
+}
