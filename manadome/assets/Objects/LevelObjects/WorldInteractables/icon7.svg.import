@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cs8x85ytsrn8l"
-path="res://.godot/imported/icon3.svg-138ecbf29b793de58be8a3329f004fa3.ctex"
+uid="uid://dbtwhbhu2xamw"
+path="res://.godot/imported/icon7.svg-8ca748297a75e5929dae7088432ba16b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Scenes/Levels/icon3.svg"
-dest_files=["res://.godot/imported/icon3.svg-138ecbf29b793de58be8a3329f004fa3.ctex"]
+source_file="res://Assets/Objects/LevelObjects/WorldInteractables/icon7.svg"
+dest_files=["res://.godot/imported/icon7.svg-8ca748297a75e5929dae7088432ba16b.ctex"]
 
 [params]
 

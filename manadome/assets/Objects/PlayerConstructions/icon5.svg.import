@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://celqi3nvyyn2g"
-path="res://.godot/imported/icon6.svg-e9ec1256fe838c4e886e8b17adffb1e5.ctex"
+uid="uid://cbh505l6kxnuo"
+path="res://.godot/imported/icon5.svg-33126ca3d825fab7dc7f9a3de1b3366c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Objects/level objects/world statics/icon6.svg"
-dest_files=["res://.godot/imported/icon6.svg-e9ec1256fe838c4e886e8b17adffb1e5.ctex"]
+source_file="res://Assets/Objects/PlayerConstructions/icon5.svg"
+dest_files=["res://.godot/imported/icon5.svg-33126ca3d825fab7dc7f9a3de1b3366c.ctex"]
 
 [params]
 
